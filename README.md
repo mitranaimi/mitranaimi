@@ -16,7 +16,7 @@ professional GIS work behind it: spatial databases, web-GIS platforms, team lead
 ### Selected work
 | | |
 |---|---|
-| [ensemble-sdm-geoai-examples](https://github.com/mitranaimi/ensemble-sdm-geoai-examples) | Ensemble SDM workflow in R (VIF screening, GLM/RF/SVM, AUC-weighted ensemble, tile-wise prediction) and a small Sentinel-2 MNDWI water-extent example in Python. Public data, fully reproducible. |
+| [ensemble-sdm-geoai-examples](https://github.com/mitranaimi/ensemble-sdm-geoai-examples) | Ensemble SDM workflow in R (VIF screening, GLM/RF/SVM, AUC-weighted ensemble, tile-wise prediction). Public data, fully reproducible. |
 | [modis-event-datacube](https://github.com/mitranaimi/modis-event-datacube) | Event-based satellite data cubes in R: daily MODIS-Aqua chlorophyll-a and SST (public ERDDAP data) around point events, with an explicit forecast / nowcast time window, cloud-gap flagging and a presence / background table for SDM. |
 
 ### Publications
