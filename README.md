@@ -18,6 +18,7 @@ professional GIS work behind it: spatial databases, web-GIS platforms, team lead
 |---|---|
 | [ensemble-sdm-geoai-examples](https://github.com/mitranaimi/ensemble-sdm-geoai-examples) | Ensemble SDM workflow in R (VIF screening, GLM/RF/SVM, AUC-weighted ensemble, tile-wise prediction). Public data, fully reproducible. |
 | [modis-event-datacube](https://github.com/mitranaimi/modis-event-datacube) | Event-based satellite data cubes in R: daily MODIS-Aqua chlorophyll-a and SST (public ERDDAP data) around point events, with an explicit forecast / nowcast time window, cloud-gap flagging and a presence / background table for SDM. |
+| [wadden-macoma-sdm](https://github.com/mitranaimi/wadden-macoma-sdm) | Species distribution model for the Baltic tellin (*Macoma balthica*) on the open SIBES monitoring data of the Wadden Sea (NIOZ): presence–absence models in R, tested across tidal basins (spatial transfer) and across years 2009–2022 (temporal transfer). Transfers reasonably in most basins but fails in the Ems–Dollard estuary, which the README discusses. |
 
 ### Publications
 - **Naeimi, M.**, Azizi, Z., Mortazavi, M. S., Mohebbi-Nozar, S. L., Ezam, M. (2025). Prediction of harmful algal blooms in the Persian Gulf using remote sensing and artificial intelligence modeling. *Journal of Sea Research*, 207, 102619. [doi:10.1016/j.seares.2025.102619](https://doi.org/10.1016/j.seares.2025.102619)
